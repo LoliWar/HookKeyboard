@@ -1,0 +1,7 @@
+D:\Project\Job\Job\Code Main\Private Project\CatureKey\CatureKey\bin\Debug\CatureKey.exe.config
+D:\Project\Job\Job\Code Main\Private Project\CatureKey\CatureKey\bin\Debug\CatureKey.exe
+D:\Project\Job\Job\Code Main\Private Project\CatureKey\CatureKey\bin\Debug\CatureKey.pdb
+D:\Project\Job\Job\Code Main\Private Project\CatureKey\CatureKey\obj\Debug\CatureKey.csproj.AssemblyReference.cache
+D:\Project\Job\Job\Code Main\Private Project\CatureKey\CatureKey\obj\Debug\CatureKey.csproj.CoreCompileInputs.cache
+D:\Project\Job\Job\Code Main\Private Project\CatureKey\CatureKey\obj\Debug\CatureKey.exe
+D:\Project\Job\Job\Code Main\Private Project\CatureKey\CatureKey\obj\Debug\CatureKey.pdb
